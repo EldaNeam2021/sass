@@ -7,6 +7,8 @@ import * as prettier from 'prettier';
 
 if (process.env.CI) colors.enable();
 
+/* This is just for Testing */
+
 /**
  * A wrapper around the built-in TypeScript parser that removes all comments.
  */
